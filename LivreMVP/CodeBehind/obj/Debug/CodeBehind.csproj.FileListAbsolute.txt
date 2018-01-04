@@ -1,0 +1,5 @@
+c:\users\jerôme\documents\visual studio 2017\Projects\LivreMVP\CodeBehind\bin\Debug\CodeBehind.dll
+c:\users\jerôme\documents\visual studio 2017\Projects\LivreMVP\CodeBehind\bin\Debug\CodeBehind.pdb
+c:\users\jerôme\documents\visual studio 2017\Projects\LivreMVP\CodeBehind\obj\Debug\CodeBehind.csproj.CoreCompileInputs.cache
+c:\users\jerôme\documents\visual studio 2017\Projects\LivreMVP\CodeBehind\obj\Debug\CodeBehind.dll
+c:\users\jerôme\documents\visual studio 2017\Projects\LivreMVP\CodeBehind\obj\Debug\CodeBehind.pdb

@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="LivreMVP.ViewWPF.UCDetail"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LivreMVP.ViewWPF"
+             xmlns:viewModels="clr-namespace:LivreMVP"
+             mc:Ignorable="d" 
+             d:DataContext="{d:DesignInstance Type=viewModels:DesignDetailVM,IsDesignTimeCreatable=True}"
+             d:DesignHeight="159.482" d:DesignWidth="324.554">
+    <Grid>
+        <StackPanel Background="Red">
+            <TextBlock Text="{Binding Bouquin.Titre}" HorizontalAlignment="Center"/>
+            <TextBlock Text="{Binding Bouquin.Auteur}" HorizontalAlignment="Center"/>
+            <TextBlock Text="{Binding Bouquin.Genre}" HorizontalAlignment="Center"/>
+            <CheckBox IsChecked="{Binding Bouquin.IsChecked}" IsEnabled="False" HorizontalAlignment="Center"/>
+            <Button Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
