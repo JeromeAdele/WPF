@@ -1,0 +1,17 @@
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\bin\Debug\ManagerContact.exe.config
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\bin\Debug\ManagerContact.exe
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\bin\Debug\ManagerContact.pdb
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.csprojResolveAssemblyReference.cache
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\View\ContactView.g.cs
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\App.g.cs
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact_MarkupCompile.cache
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact_MarkupCompile.lref
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\View\ContactView.baml
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.g.resources
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.Properties.Resources.resources
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.csproj.GenerateResource.Cache
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.csproj.CoreCompileInputs.cache
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.exe
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\ManagerContact.pdb
+C:\Users\Jerôme\Documents\Visual Studio 2017\Projects\ManagerContact\ManagerContact\obj\Debug\App.baml
